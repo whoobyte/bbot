@@ -1,0 +1,4 @@
+pip==22.2.2
+aiogram==2.22.1
+loguru==0.6.0
+python-dotenv==0.20.0
